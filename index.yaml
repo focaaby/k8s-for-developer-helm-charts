@@ -3,6 +3,16 @@ entries:
   grpc:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2024-11-13T10:36:02.524535648Z"
+    description: A Helm chart for Kubernetes
+    digest: a2b799d13bdff7894ea880f511fcfa92eea4025ae0508cae3b70d02cc310d0b6
+    name: grpc
+    type: application
+    urls:
+    - https://github.com/focaaby/k8s-for-developer-helm-charts/releases/download/grpc-0.1.2/grpc-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2024-11-13T10:16:57.407537789Z"
     description: A Helm chart for Kubernetes
     digest: bc424f280ba93ad5c1843f261206b9f5fda9b0f7db102e8aeecd3b2b51f9df76
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://github.com/focaaby/k8s-for-developer-helm-charts/releases/download/grpc-0.1.0/grpc-0.1.0.tgz
     version: 0.1.0
-generated: "2024-11-13T10:16:57.40757601Z"
+generated: "2024-11-13T10:36:02.52455803Z"
